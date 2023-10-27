@@ -4,8 +4,8 @@ I'm currently an undergraduate student delving into the fascinating realms of Ne
 
 ## Projects :computer:
 - **[Six Degrees of Kevin Bacon](https://github.com/caiogimenes/six-degrees)**: Implemented algorithms to solve the classical problem of finding the shortest path of connectivity between actors through the movies they've appeared in.
-- **[tictactoe](https://github.com/caiogimenes/tictactoe)** - A simple yet engaging Tic Tac Toe game.
-- **[knights-and-knaves](https://github.com/caiogimenes/knights-and-knaves)**: A logical puzzle solved using AI.
+- **[Tic-Tac-Toe](https://github.com/caiogimenes/tictactoe)** - A simple yet engaging Tic Tac Toe game.
+- **[Knights and Knaves](https://github.com/caiogimenes/knights-and-knaves)**: A logical puzzle solved using AI.
 
 
 ## Interests :zap:
