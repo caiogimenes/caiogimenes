@@ -17,3 +17,20 @@ I'm currently an undergraduate student delving into the fascinating realms of Ne
 - [Email](dias.cgimenes@gmail.com)
 
 Feel free to explore my [GitHub repositories](https://github.com/caiogimenes?tab=repositories) to know more about my explorations. Happy coding!
+
+# Olá, sou o Caio Gimenes! 👋
+
+Atualmente, sou estudante de Redes e Sistemas, explorando o fascinante mundo de Inteligência Artificial e Redes. Tenho muita curiosidade sobre como os sistemas interagem e se comunicam dentro das redes.
+
+## Meus Projetos 🛠️:
+- **[knights-and-knaves](https://github.com/caiogimenes/knights-and-knaves)**: Um puzzle lógico resolvido usando IA.
+- **[tictactoe](https://github.com/caiogimenes/tictactoe)**: Engajando-se em um jogo clássico com um toque digital.
+- **[six-degrees](https://github.com/caiogimenes/six-degrees)**: Explorando a teoria dos seis graus de separação com IA.
+
+Convido você a dar uma olhada nos meus projetos. Estou sempre aberto a feedback e colaboração. Vamos conectar, aprender e crescer juntos!
+
+## Vamos Conectar 🤝:
+- **LinkedIn**: [Seu Link do Perfil LinkedIn]
+- **Email**: [Seu Endereço de Email]
+
+Sinta-se à vontade para explorar meus [Repositórios GitHub](https://github.com/caiogimenes?tab=repositories) para saber mais sobre minha exploração no mundo da tecnologia. Feliz programação!
