@@ -4,6 +4,6 @@ Data Science graduate student working at Brazilian Army. I have been diving into
 
 ## Connect:
 - **LinkedIn**: [Caio Gimenes](https://www.linkedin.com/in/caio-gimenes-profile/)
-- **Email**: dias.cgimenes@gmail.com
+- **Email**: ciaonemegi@gmail.com
 
 Feel free to explore my [GitHub Repositories](https://github.com/caiogimenes?tab=repositories)
