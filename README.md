@@ -1,6 +1,6 @@
 # Hello!👋
 
-Data Science graduate student working at the Brazilian Army. I have been diving into the world of Data Stream Machine Learning.
+I am a Data Science graduate student working at the Brazilian Army. I have been diving into the world of Data Stream Machine Learning.
 
 ## Connect:
 - **LinkedIn**: [Caio Gimenes](https://www.linkedin.com/in/caio-gimenes-profile/)
